@@ -1,0 +1,22 @@
+body{
+    background-color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+ h1{
+    color: black;
+    text-align: center;
+}
+.butao{
+    display: flex;
+    gap : 10px; /* espaço entre os botões */
+    justify-content: center; /* centraliza os botões horizontalmente */
+    border: none;
+}
+.butao button:hover{
+    background-color: purple;
+
+
+
+    }
