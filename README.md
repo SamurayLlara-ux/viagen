@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,44 +7,47 @@
     <link rel="stylesheet" href="/viagens/css/style.css">
 </head>
 <body>
-    <h1>são paulo</h1>
-        <hr>
-    <h2>itaquera</h2>
-        <div>
-            <a href="https://www.parquedocarmo.net/">
-            <img src="/viagens/imagens/img1.jpg">
-            </a>
-        </div>
-        <article>
-             <P>  Itaquera é um dos bairros mais emblemáticos da Zona Leste de São Paulo, marcado por sua história antiga e pelo crescimento acelerado ao longo do século XX. O nome vem do tupi e significa “pedra dura”, remetendo às características naturais da região. As primeiras referências datam do século XVII, quando a chamada “Roça Itaquera” surgiu próxima ao aldeamento de São Miguel. Com o tempo, o bairro se transformou em um polo de moradia para migrantes que chegavam à capital e cresceu impulsionado pela expansão ferroviária e rodoviária
-            Hoje, Itaquera é um distrito populoso, com mais de duzentos mil habitantes, e se destaca pela diversidade cultural e pela forte identidade comunitária. A inauguração da Neo Química Arena em 2014, construída para a Copa do Mundo, colocou o bairro em evidência internacional e trouxe novos investimentos para a região. Além do estádio, Itaquera conta com importantes instituições sociais, como a Obra Dom Bosco, que oferece educação e assistência a milhares de jovens, além de parques e praças que servem como espaços de lazer.          
-            </P>
-        </article>        
-        <hr>
-    <h2>bairro agua funda</h2>         
+      <h1>rio de janeiro</h1>
+          <hr>
+      <h2>cristo redentor</h2>
          <div>
-            <a href="https://www.zoologico.com.br/">
-            <img src="/viagens/imagens/img2.jpg">
-            </a>
+          <a href="https://www.tremdocorcovado.rio/">
+            <img src="/viagens/imagens/cristo.jpg">
+          </a>
          </div>
          <article>
-             <p>O bairro Água Funda, localizado na Zona Sudeste de São Paulo, é uma região que combina áreas residenciais tranquilas com importantes espaços de lazer e eventos. Seu nome remete a um antigo lago de águas profundas que existia na área, e hoje o bairro abriga alguns dos principais pontos turísticos da cidade, como o Zoológico de São Paulo e o Parque Estadual das Fontes do Ipiranga, onde está a nascente do famoso rio que marcou a história da Independência. Além disso, o São Paulo Expo, um dos maiores centros de convenções da América Latina, também está situado ali, tornando o bairro um polo de atividades culturais e comerciais
-              Com ruas arborizadas e infraestrutura completa, o Água Funda oferece escolas, hospitais, supermercados e restaurantes, atendendo bem às necessidades dos moradores. Sua localização é estratégica, próxima à Rodovia dos Imigrantes, o que facilita o acesso tanto ao litoral quanto ao ABC Paulista. É considerado um bairro de classe média, com perfil familiar e ambiente agradável, que se destaca justamente por unir a vida urbana com grandes áreas verdes preservadas, algo raro em São Paulo
-             </p> 
+           <P> O Cristo Redentor, localizado no alto do Morro do Corcovado no Rio de Janeiro, é um dos maiores símbolos do Brasil e do Cristianismo. A ideia de construir um monumento religioso surgiu em 1859, proposta pelo padre francês Pierre-Marie Boss, mas foi interrompida com a Proclamação da República em 1889. O projeto só ganhou força novamente em 1921, durante as comemorações do centenário da Independência, quando a Arquidiocese do Rio lançou uma campanha nacional de arrecadação chamada “Semana do Monumento”, que contou com grande apoio popular.
+           O engenheiro Heitor da Silva Costa foi responsável pelo projeto estrutural, enquanto o artista Carlos Oswald sugeriu o formato da estátua com os braços abertos, representando acolhimento e paz. O escultor francês Paul Landowski produziu a cabeça e as mãos em Paris, que depois foram transportadas para o Brasil. A obra foi construída entre 1922 e 1931, em concreto armado revestido por pedra-sabão, material escolhido pela resistência ao clima tropical. Com 30 metros de altura da estátua e mais 8 metros do pedestal, o Cristo Redentor alcança 38 metros no total e está a 710 metros acima do nível do mar.
+           Em 2007, o Cristo Redentor foi eleito uma das Sete Maravilhas do Mundo Moderno, e em 2012, o Rio de Janeiro, incluindo o monumento, foi reconhecido como Patrimônio Mundial da Humanidade pela UNESCO. Hoje, além de sua importância religiosa e cultural, é um dos pontos turísticos mais visitados do planeta, recebendo milhões de visitantes todos os anos e consolidando-se como um cartão-postal que representa a identidade e a diversidade do povo brasileiro.
+           </P>
          </article>
           <hr>
-    <h2>shopping eldorado</h2>
+      <h2>pao de açucar</h2> 
+         <div>
+          <a href="https://bondinho.com.br/pt">
+           <img src="/viagens/imagens/pao.jpg">          
+           </a>
+          </div>
+         <article>
+           <p>O Pão de Açúcar é um dos marcos naturais mais famosos do Rio de Janeiro e do Brasil. Localizado na entrada da Baía de Guanabara, o morro tem 396 metros de altura e é formado por granito e quartzo, resultado de processos geológicos que remontam a centenas de milhões de anos. Seu nome teria surgido no período colonial, inspirado nos blocos de açúcar refinado que eram moldados em formas cônicas semelhantes ao perfil da montanha. Desde os primeiros tempos da cidade, o Pão de Açúcar serviu como referência para navegadores que chegavam ao porto do Rio, tornando-se um símbolo da paisagem carioca.
+            m 1912, foi inaugurado o bondinho do Pão de Açúcar, o primeiro teleférico do Brasil e um dos primeiros do mundo, ligando a Praia Vermelha ao Morro da Urca e, em seguida, ao topo do Pão de Açúcar. O sistema foi modernizado em 1972 e continua em funcionamento, transportando milhões de turistas todos os anos. A vista panorâmica oferecida pelo passeio é considerada uma das mais belas do planeta, abrangendo a cidade do Rio, a baía, as praias e o Cristo Redentor ao fundo.
+            Além de sua importância turística, o Pão de Açúcar é também um espaço de contato com a natureza, abrigando vegetação típica do clima tropical e espécies nativas. É utilizado para atividades esportivas como escalada e trilhas, atraindo aventureiros e visitantes que buscam experiências além da contemplação da paisagem. Hoje, junto com o Cristo Redentor, o Pão de Açúcar compõe a dupla de ícones mais reconhecidos internacionalmente do Rio de Janeiro, representando a união entre beleza natural, história e inovação tecnológica.
+           </p>
+         </article>
+          <hr>
+      <h2>praia de copa cabana</h2>
           <div>
-               <a href="https://www.cinemark.com.br/">
-               <img src="/viagens/imagens/img3.jpg">
-                </a>
+          <a href="https://www.airbnb.com.br/">
+            <img src="/viagens/imagens/praia.jpg">
+           </a>
          </div>
          <article>
-               <p>O Shopping Eldorado, inaugurado em 1981, nasceu em um momento de expansão dos centros comerciais em São Paulo e rapidamente se consolidou como um dos mais importantes da cidade. Localizado na Marginal Pinheiros, próximo à Avenida Rebouças, tornou-se um ponto estratégico tanto pela facilidade de acesso quanto pela diversidade de opções oferecidas. Ao longo das décadas, o Eldorado passou por diversas modernizações e ampliações, acompanhando as mudanças no comportamento de consumo e nas necessidades dos visitantes
-                Com uma área construída de mais de 160 mil metros quadrados, o shopping reúne centenas de lojas, restaurantes, cinemas e espaços de lazer, atraindo milhões de pessoas todos os anos. Além de ser um centro de compras, o Eldorado também se destacou por iniciativas voltadas à sustentabilidade e pela realização de eventos culturais e sociais que reforçam sua relevância na vida paulistana. Hoje, administrado pela ALLOS, o empreendimento continua sendo um ícone da capital, combinando tradição e inovação para manter-se como referência em entretenimento, gastronomia e comércio
-               </p>
+           <p> Praia de Copacabana, situada na Zona Sul do Rio de Janeiro, é um dos símbolos mais marcantes da cidade e do Brasil. Com cerca de 4 km de extensão, sua larga faixa de areia e o famoso calçadão de pedras portuguesas em desenho ondulado atraem diariamente moradores e turistas. O bairro que a abriga é vibrante, repleto de hotéis, bares, restaurantes e quiosques que oferecem desde petiscos típicos até opções sofisticadas, tornando a orla um espaço de convivência e lazer.
+            Além de ser um ponto turístico permanente, Copacabana é palco de grandes eventos culturais e esportivos. O Réveillon, por exemplo, reúne milhões de pessoas todos os anos para celebrar a virada com shows e uma queima de fogos que se tornou referência mundial. Ao longo do ano, a praia também recebe competições de vôlei de praia, futebol de areia e maratonas aquáticas, reforçando sua identidade esportiva.
+            Com fácil acesso por metrô e ônibus, Copacabana é democrática: acolhe famílias, jovens, esportistas e visitantes de todas as partes do mundo. Sua atmosfera mistura tradição e modernidade, sendo ao mesmo tempo um espaço de lazer cotidiano para cariocas e um cartão-postal internacional. Essa combinação de beleza natural, infraestrutura urbana e efervescência cultural faz da Praia de Copacabana um dos lugares mais emblemáticos e inesquecíveis do Rio de Janeiro.          
+           </p>
          </article>
-         <hr>
+            <hr>
     <div class="butao">
        <button><a href="/viagens/index.html"><h1>1</h1></a></button>
        <button><a href="/viagens/index2.html"><h1>2</h1></a></button>
@@ -55,6 +57,3 @@
     </div>
 </body>
 </html>
-
-
-
