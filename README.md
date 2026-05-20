@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="/viagens/css/style.css">
 </head>
 <body>
-    <h1>sâo paulo</h1>
+    <h1>são paulo</h1>
         <hr>
     <h2>itaquera</h2>
         <div>
